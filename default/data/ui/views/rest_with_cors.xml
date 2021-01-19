@@ -1,0 +1,10 @@
+<dashboard script="cors.js">
+  <label>rest_with_cors</label>
+  <row>
+    <panel>
+      <html>
+        <div id="root"></div>
+      </html>
+    </panel>
+  </row>
+</dashboard>
